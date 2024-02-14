@@ -1,0 +1,4 @@
+Heart disease: Random Forest 
+Breast Cancer: Gradient Boosting, Logistic Regression
+Diabetes: k-Nearest Neighbors (KNN), Naive Bayes
+Parkinsons: Support Vector Machines (SVM)
